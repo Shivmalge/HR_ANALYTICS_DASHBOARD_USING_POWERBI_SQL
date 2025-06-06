@@ -2,8 +2,7 @@
 ### 🧭 Objective
 The objective of this project is to analyze HR data to identify patterns and insights related to employee attrition, job satisfaction, age distribution, and other key HR metrics. The goal is to provide HR teams with a powerful visual tool for decision-making using Power BI, and validate the key insights using SQL.
 
-### [![Dashboard Preview]([images/hr_dashboard_full.png](https://github.com/user-attachments/assets/d4ff351b-03fa-4a69-a6bf-7965fc1f0a6f))
-
+### Dashboard Interaction <a href="https://github.com/Shivmalge/HR_ANALYTICS_DASHBOARD_USING_POWERBI_SQL/blob/main/Dashboard.PNG">View Dashboard<a/>
 
 ### 📌 KPIs Tracked
   - 👥 Total Employee Count
