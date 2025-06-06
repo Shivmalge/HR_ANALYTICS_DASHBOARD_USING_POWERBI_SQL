@@ -66,6 +66,10 @@ The objective of this project is to analyze HR data to identify patterns and ins
 ### 📊 Power BI Dashboard
 ![Dashboard](https://github.com/user-attachments/assets/35b9b863-e7c9-48cb-980f-d3205659c5c7)
 
+### 🎥 Dashboard Demo
+#### Watch the video below to explore how key KPIs and trends are visualized in the Power BI dashboard.
+https://github.com/user-attachments/assets/420a464c-2abd-41f7-b58d-9a3afe7eaccb
+
 ### Conclusion
 The HR Data Analytics Dashboard provides valuable insights into workforce dynamics and attrition trends. Key observations include:
   - The organization has a total of 1,470 employees, with 237 having left, resulting in an overall attrition rate of 16.12%.
@@ -85,8 +89,11 @@ This dashboard is designed to help HR teams:
   - Compare active vs. total employee trends.
   - Understand demographic-based attrition trends for targeted interventions.
 
-Project By:
-Shivsharan Malage
+Project By - Shivsharan Malage
+
+[Github](https://github.com/Shivmalge)
+
+[Linkedin](https://www.linkedin.com/in/shivsharan-malage-99802a230/)
 
 
 
